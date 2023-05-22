@@ -1,0 +1,12 @@
+D:/project/Stitching/ColorConsistency-master/Build/CMakeFiles/INSTALL.dir
+D:/project/Stitching/ColorConsistency-master/Build/CMakeFiles/ALL_BUILD.dir
+D:/project/Stitching/ColorConsistency-master/Build/CMakeFiles/ZERO_CHECK.dir
+D:/project/Stitching/ColorConsistency-master/Build/Unification/CMakeFiles/Unification.dir
+D:/project/Stitching/ColorConsistency-master/Build/Unification/CMakeFiles/INSTALL.dir
+D:/project/Stitching/ColorConsistency-master/Build/Unification/CMakeFiles/ALL_BUILD.dir
+D:/project/Stitching/ColorConsistency-master/Build/QuadProg/CMakeFiles/QuadProg.dir
+D:/project/Stitching/ColorConsistency-master/Build/QuadProg/CMakeFiles/INSTALL.dir
+D:/project/Stitching/ColorConsistency-master/Build/QuadProg/CMakeFiles/ALL_BUILD.dir
+D:/project/Stitching/ColorConsistency-master/Build/Utils/CMakeFiles/Utils.dir
+D:/project/Stitching/ColorConsistency-master/Build/Utils/CMakeFiles/INSTALL.dir
+D:/project/Stitching/ColorConsistency-master/Build/Utils/CMakeFiles/ALL_BUILD.dir

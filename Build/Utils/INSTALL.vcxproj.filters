@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\project\Stitching\ColorConsistency-master\Build\CMakeFiles\11ef664b1634a5bef066e815423c3e24\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{965829A9-E13A-316F-966B-F87544A7F7F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
